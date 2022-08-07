@@ -1,0 +1,92 @@
+export const IcecreamList=[
+    {
+        name:"Gelato",
+        image:`https://thumbs.dreamstime.com/b/neapolitan-ice-cream-15779155.jpg`,
+        price:"Rs.100",
+    },
+    {
+        name:"Kulfi",
+        image:`https://thumbs.dreamstime.com/b/kulfi-also-spelled-khulfi-qulfi-popular-frozen-dairy-dessert-indian-subcontinent-often-described-as-88813676.jpg`,
+        price:"Rs.200",
+    },
+    {
+        name:"Sherbet",
+        image:`https://images7.alphacoders.com/421/421534.jpg`,
+        price:"Rs.300",
+    },  
+      {
+        name:"Sorbet",
+        image:`https://media.istockphoto.com/photos/sorbet-on-white-plate-with-berries-and-spoon-picture-id177241236?k=20&m=177241236&s=170667a&w=0&h=VHiOAO5DJYWiXfNCl3dzTXX297ms0lxuH-WUKzzoezQ=`,
+        price:"Rs.400",
+    },   
+     {
+        name:"Frozen Yogurt",
+        image:`https://thumbs.dreamstime.com/b/frozen-yogurt-strawberry-strawberries-sweet-sauce-white-background-54232210.jpg`,
+        price:"Rs.500",
+    },
+    {
+        name:"Soft Serve",
+        image:`https://media.istockphoto.com/photos/vanilla-and-chocolate-ice-cream-cones-on-screen-left-picture-id1211108035?b=1&k=20&m=1211108035&s=170667a&w=0&h=-radf45P5DUuhhCL4V2aJ8_5aj8xGUrhdFvJxBMzNqs=`,
+        price:"Rs.700",
+    },
+     {
+        name:"Philadelphia",
+        image:`https://blog-assets.lightspeedhq.com/img/2021/03/e4bcf36b-blog_are-you-really-ready-to-open-an-ice-cream-shop_1200x628.jpg`,
+        price:"Rs.800",
+    },
+    {
+        name:"Rolled",
+        image:`https://media.istockphoto.com/photos/selection-of-different-rolled-ice-creams-in-cone-cups-picture-id938188964?k=20&m=938188964&s=612x612&w=0&h=FDI8fY7CetlcwX1UwVaavDKgH3oHh6BM7as3P2LfASE=`,
+        price:"Rs.900",
+    },
+    {
+        name:"Snow Cream",
+        image:`https://media.istockphoto.com/photos/snow-ice-cup-cold-dessert-fresh-picture-id134110911?k=20&m=134110911&s=612x612&w=0&h=YDzOWjQXZMXa0Iov7Nt63kq-TOgBdWiGeYeT552dUEM=`,
+        price:"Rs.1000",
+    },
+    {
+        name:"Italian Ice",
+        image:`https://media.istockphoto.com/photos/cherry-raspberry-strawberry-cranberry-red-sorbetscoop-black-stone-picture-id496074278?k=20&m=496074278&s=612x612&w=0&h=AkvICjZUehQfMcPEFzkGgUBJLnC_FL_WhfkSNKMWv0U=`,
+        price:"Rs.1100",
+    },
+    {
+        name:"Dondurma",
+        image:`https://thumbs.dreamstime.com/b/turkish-ice-cream-dondurma-hand-background-kas-town-turkey-turkish-ice-cream-dondurma-hand-180630118.jpg`,
+        price:"Rs.1200",
+    },
+    {
+        name:"Mochi",
+        image:`https://media.istockphoto.com/photos/multicolored-japanese-ice-cream-mochi-in-rice-dough-and-jasmine-on-a-picture-id1158085114?k=20&m=1158085114&s=612x612&w=0&h=R3DU9L9meZ-cTtdpOdWxKdnzIYGlbLS4CmuaOt9dp7I=`,
+        price:"Rs.1300",
+    },
+    {
+        name:"Ice Cream Cake",
+        image:`https://wallpaperaccess.com/full/6361533.jpg`,
+        price:"Rs.1400",
+    },
+    {
+        name:"Granita",
+        image:`https://t3.ftcdn.net/jpg/02/41/02/20/360_F_241022093_7ml1sVjRcJLskYpeCYPWPKiqEAnsRprO.jpg`,
+        price:"Rs.1500",
+    },
+    {
+        name:"Booza",
+        image:`https://i.pinimg.com/236x/00/87/6f/00876f71ac58e6a2f5e7c129aaf14d56.jpg`,
+        price:"Rs.1600",
+    },
+    {
+        name:"Zuccotto",
+        image:`https://thumbs.dreamstime.com/b/zuccotto-cake-19977632.jpg`,
+        price:"Rs.1700",
+    },
+    {
+        name:"Cookies And Cream",
+        image:`https://media.istockphoto.com/photos/cookies-and-cream-homemade-ice-cream-picture-id1139277956?k=20&m=1139277956&s=612x612&w=0&h=95YEp4lNvbdl4yQxAo8R5ljFCyjn7rbYOG_j2xZEBDM=`,
+        price:"Rs.1800",
+    },
+    {
+        name:"Dulce de Leche",
+        image:`https://media.istockphoto.com/photos/dulce-de-leche-ice-creams-picture-id993789380?k=20&m=993789380&s=170667a&w=0&h=T4-9IbIO8X2QLtMZpy1l1Hq7-G-wIBRqA9Oikd4zzZo=`,
+        price:"Rs.1900",
+    },
+];
